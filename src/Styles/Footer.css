@@ -1,0 +1,32 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.footer-section{
+    background-color: #121212;
+    color: white;
+}
+
+.footer-section ul{
+    list-style-type: none;
+    margin-top: 20px;
+}
+
+.footer-section a{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.877);
+    font-size: 25px;
+    transition: .6s;
+}
+
+.footer-section a:hover{
+    color: white;
+}
+
+.center h6{
+    font-size: 24px;
+}
+
+.center h6 a{
+   color: rgb(115, 115, 248);
+}
